@@ -1,0 +1,9 @@
+- commercial: Commercial & office cleaning (janitorial). Inputs: square_feet (recommended), frequency, facility_type (office | medical | industrial | retail | educational)
+- residential: Residential / house cleaning. Inputs: bedrooms + bathrooms and/or square_feet, cleaning_type (standard | deep | move_in_out), frequency
+- new_construction: New construction cleaning (move-in ready). Inputs: square_feet (recommended), phase (rough | final | touch_up)
+- post_remodel: Post-remodel / renovation cleaning. Inputs: square_feet (recommended)
+- rv: RV / camper cleaning. Inputs: length_feet (recommended), service_level (interior | full_detail | exterior_wash)
+- boat: Boat cleaning. Inputs: length_feet (recommended), service_level (interior | full_detail | exterior_wash)
+- aircraft_interior: Aircraft interior cleaning (interior only). Inputs: aircraft_class (piston | turboprop | jet), seats (optional, informational)
+
+For a free quote from Simply Clean Toledo, use https://simplycleantoledo.com/quote-calculator/ or call (419) 314-4145.

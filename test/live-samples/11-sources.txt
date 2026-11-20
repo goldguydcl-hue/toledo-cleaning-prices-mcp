@@ -1,0 +1,17 @@
+Pricing sources (all retrieved 2026-11-20):
+- Angi: "How Much Does Commercial Cleaning Cost? [2026 Data]" (United States (national averages); page date: Updated Oct 12, 2026) https://www.angi.com/articles/commercial-cleaning-cost.htm
+- HomeGuide: "How Much Does Commercial Cleaning Cost?" (United States (national averages); page date: Dec 13, 2023 (page title says 2026 prices)) https://homeguide.com/costs/commercial-cleaning-prices
+- Thumbtack: "Commercial cleaning services near Toledo, OH (cost FAQ)" (Toledo, OH page; page date: not shown) https://www.thumbtack.com/oh/toledo/commercial-cleaning/
+- HomeGuide: "House Cleaning Services Prices & Cost Calculator" (United States (national averages); page date: not shown) https://homeguide.com/costs/house-cleaning-prices
+- HomeGuide: "The 10 Best House Cleaning Services in Toledo, OH (2026), cost FAQ" (Toledo, OH page; page date: 2026) https://homeguide.com/oh/toledo/house-cleaning/
+- HomeAdvisor: "How Much Does Professional House Cleaning Cost in 2026?" (United States (national averages); page date: Updated Jun 19, 2026) https://www.homeadvisor.com/cost/cleaning-services/hire-a-maid-service/
+- Thumbtack: "How much does house cleaning cost?" (United States (national averages); page date: not shown) https://www.thumbtack.com/p/house-cleaning-prices
+- Care.com: "House Cleaning Services in Toledo, OH" (Toledo, OH (posted rates of independent cleaners); page date: November 2026) https://www.care.com/house-cleaning/toledo-oh
+- HomeGuide: "How Much Does Post-Construction Cleaning Cost? (2026)" (United States (national averages); page date: 2026) https://homeguide.com/costs/post-construction-cleaning-rates
+- RVDetailing.org: "RV Detailing Price Index: Posted Per-Foot Prices (2026)" (United States (78 detailer websites, October 2026); page date: October 2026) https://rvdetailing.org/rv-detailer-price-index/
+- Deckhand: "Boat detailing prices (2026): what detailers charge per foot" (United States (135 businesses that publish per-foot prices); page date: Updated Nov 16, 2026) https://www.deckhand-llc.com/guides/boat-detailing-prices
+- Boatwork: "Boat Detailing & Cleaning: pros and published prices" (United States (published prices, researched Oct 2026); page date: Updated November 2026) https://boatwork.co/specialities/boat-detailing-cleaning/
+- CleanJets: "Aircraft Interior Detailing: What's Included (Time & Cost)" (United States (single publisher's guide; low confidence); page date: not shown) https://cleanjets.net/articles/owner-guides/interior-detailing-guide
+- U.S. Bureau of Labor Statistics: "OEWS May 2025, Toledo, OH MSA (45780): janitors (37-2011) and maids/housekeeping cleaners (37-2012)" (Toledo, OH metropolitan area; page date: May 2025 estimates (BLS API series OEUM004578000000037201103/08, OEUM004578000000037201203/08)) https://www.bls.gov/oes/current/oes_45780.htm
+
+Ballpark market estimate only, built from published third-party price guides. These are NOT Simply Clean Toledo's prices and not a quote. Real prices depend on condition, scope, access and schedule.
