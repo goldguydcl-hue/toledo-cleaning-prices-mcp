@@ -1,0 +1,1 @@
+{"name":"sct-price-mcp","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node test/local.mjs"},"dependencies":{"@modelcontextprotocol/server":"^2.4.0","agents":"^0.33.0","zod":"^4.6.7"},"devDependencies":{"wrangler":"^4.86.0"}}

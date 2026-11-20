@@ -1,0 +1,13 @@
+{
+  "name": "toledo-cleaning-prices",
+  "main": "src/index.js",
+  "compatibility_date": "2026-05-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [
+    { "pattern": "simplycleantoledo.com/mcp*", "zone_name": "simplycleantoledo.com" },
+    { "pattern": "simplycleantoledo.com/.well-known/mcp-registry-auth", "zone_name": "simplycleantoledo.com" }
+  ],
+  "observability": { "enabled": true }
+}

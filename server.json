@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.simplycleantoledo/toledo-cleaning-prices",
+  "title": "Toledo Cleaning Price Estimator",
+  "description": "Free ballpark cleaning prices for Toledo, OH and nearby towns, from cited public price guides.",
+  "version": "1.0.0",
+  "websiteUrl": "https://simplycleantoledo.com/mcp-info",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://simplycleantoledo.com/mcp" }
+  ]
+}
