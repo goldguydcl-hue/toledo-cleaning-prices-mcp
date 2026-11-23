@@ -1,6 +1,6 @@
 # Toledo Cleaning Price Estimator (MCP server)
 
-[![goldguydcl-hue/toledo-cleaning-prices-mcp MCP server](https://glama.ai/mcp/servers/goldguydcl-hue/toledo-cleaning-prices-mcp/badges/score.svg)](https://glama.ai/mcp/servers/g
+[![goldguydcl-hue/toledo-cleaning-prices-mcp MCP server](https://glama.ai/mcp/servers/goldguydcl-hue/toledo-cleaning-prices-mcp/badges/score.svg)](https://glama.ai/mcp/servers/goldguydcl-hue/toledo-cleaning-prices-mcp)
 
 A free, public [Model Context Protocol](https://modelcontextprotocol.io/) server from [Simply Clean Toledo](https://simplycleantoledo.com/).
 Ask your AI assistant things like "How much does office cleaning cost in Toledo?" or "What does a deep clean cost for a
